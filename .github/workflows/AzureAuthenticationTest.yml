@@ -2,7 +2,9 @@ name: Azure Authentication Test
 
 
 
-on: [push]
+on: 
+  push:
+  workflow_dispatch:
 
 
 
