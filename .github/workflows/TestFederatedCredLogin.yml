@@ -1,6 +1,6 @@
 name: Test Federated Credential Login
 
-on: [push]
+on: 
 
 jobs:
   test-federated-login:
